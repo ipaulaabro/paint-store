@@ -95,6 +95,7 @@ nav li:last-child {
 
 #banner:before {
   /* Orange Overlay */
+  background-color: rgba(255, 128, 0, 0.75);
   position: absolute;
   content: "";
   top: 0;
@@ -449,6 +450,7 @@ footer {
 
 footer:before {
   /* Overlay */
+  background-color: rgba(0, 0, 0, 0.7);
   position: absolute;
   content: "";
   top: 0;
